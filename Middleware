@@ -1,4 +1,6 @@
-export const config = {
+
+*skip if not necessary 
+exporter: export const config = {
   matcher: '/about/:path*',
 };
 
